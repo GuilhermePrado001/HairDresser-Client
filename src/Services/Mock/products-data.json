@@ -1,0 +1,32 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "iPhone X",
+            "image": "dog.jpg",
+            "price": 8000.00,
+            "description": "Tela amoled de ultima geração"
+        },
+        {
+            "id": 2,
+            "name": "Action Figure One Piece",
+            "image": "dog1.jpg",
+            "price": 200.00,
+            "description": "Zoro One Piece"
+        },
+        {
+            "id": 3,
+            "name": "Action Figure One Piece",
+            "image": "dog2.png",
+            "price": 800.00,
+            "description": "Luffy One Piece"
+        },
+        {
+            "id": 4,
+            "name": "Action Figure One Piece",
+            "image": "ace.jpg",
+            "price": 500.00,
+            "description": "Ace One Piece"
+        }
+    ]
+}
